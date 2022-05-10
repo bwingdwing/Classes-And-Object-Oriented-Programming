@@ -1,0 +1,13 @@
+public class Triangle
+{
+    private double height;
+    private double width;
+    
+    // Write your constructor here!
+
+    public String toString()
+    {
+        return "Triangle with width: " + width + " and height: " + height;
+    }
+
+}
